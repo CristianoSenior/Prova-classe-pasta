@@ -1,0 +1,16 @@
+header{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 1px solid white;
+  img{
+    height: 100px;
+    width: 100px;
+    margin-top:20px;
+    margin-bottom:20px;
+  }
+  p{
+    color: white;
+    font-size: 27px;
+  }
+}

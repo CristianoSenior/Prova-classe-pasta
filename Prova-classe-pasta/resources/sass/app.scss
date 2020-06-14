@@ -1,1 +1,15 @@
-//
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+body{
+  background-color: rgba(19, 85, 99, 0.91);
+}
+
+
+@import "_header";
+@import "_footer";
+@import "_content";
